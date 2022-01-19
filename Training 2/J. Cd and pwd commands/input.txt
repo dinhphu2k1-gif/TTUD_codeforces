@@ -1,0 +1,6 @@
+5
+cd /a/b
+cd /c/d
+pwd
+cd ..
+pwd
